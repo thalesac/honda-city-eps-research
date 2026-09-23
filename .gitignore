@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.rwd
+*.rwd.gz
+*.bin
+*.log
+eps_recovery_state.json
+eps_dump_state.json
+
+!examples/hrv-brazil/39990T7T_M020M1__A0099993.rwd
